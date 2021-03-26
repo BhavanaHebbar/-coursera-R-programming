@@ -1,2 +1,2 @@
-# -coursera-R-programming
+# coursera-R-programming
 R programming projects
